@@ -774,6 +774,10 @@ footer a:hover {
   }
 
   /*---------- ABOUT ---------------*/
+  .jumbotron {
+    height: auto;
+  }
+
   .about__content {
     flex-direction: column;
   }
