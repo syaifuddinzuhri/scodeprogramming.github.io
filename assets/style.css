@@ -774,10 +774,7 @@ footer a:hover {
   }
 
   /*---------- ABOUT ---------------*/
-  .jumbotron {
-    height: auto;
-  }
-
+ 
   .about__content {
     flex-direction: column;
   }
@@ -796,6 +793,7 @@ footer a:hover {
 
   .about .bg__about {
     top: 1180px;
+    display: none;
   }
   /*---------- OVERVIEW ---------------*/
   .card__overview {
@@ -826,6 +824,7 @@ footer a:hover {
 
   .overview .bg__ov {
     top: 2100px;
+    display: none;
   }
   /*---------- MEMBER ---------------*/
   .member__content {
@@ -860,6 +859,7 @@ footer a:hover {
 
   .bgm {
     top: 3520px;
+    display: none;
   }
 }
 
